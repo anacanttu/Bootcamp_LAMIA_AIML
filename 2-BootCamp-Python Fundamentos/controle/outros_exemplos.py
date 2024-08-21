@@ -1,0 +1,22 @@
+pessoas = ['Gui', 'Rebeca']
+adjs = ['Sapeca', 'Inteligente']
+
+
+for p in pessoas:
+    for a in adjs:
+        print(f'{p}, é {a}!')
+
+for i in [1,2,3]:
+    pass
+
+for i in range(1, 11):
+    if i % 2 == 1:
+        continue
+    print(i, end='')
+    
+for i in range(1, 11):
+    if i == 5:
+        break
+    print(i, end='')
+    
+print('Fim!')
