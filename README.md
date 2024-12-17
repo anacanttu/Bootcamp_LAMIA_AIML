@@ -1,5 +1,5 @@
 # BootCamp-IA-ML-LAMIA
-
+### MODULO 1
 #### 1 - Vídeo: O Que é Aprendizado de Máquina (I)
 #### 2 - Prática: Linguagem de Programação Python 
 #### 3 - Leitura: O que é Inteligência Artificial e Aprendizado de Máquina? (I)
@@ -11,6 +11,7 @@
 #### 9 - Vídeo: Big Data is a Better Data (II)
 #### 10 - Prática: Lidando com Dados do Mundo Real (II) 
 
+### MODULO 2
 #### 11 - Prática: Predição e a Base de Aprendizado de Máquina (II)
 #### 12 - Prática: Predição e a Base de Aprendizado de Máquina (II)
 #### 13 - Prática: Redes Neurais (II)
@@ -23,3 +24,6 @@
 #### 20 - Prática: Visão Computacional (III)
 #### 21 - Prática: HSV com Opencv (III)
 #### 22 - Prática: Reconhecimento de Emoções com TensorFlow 2.0 e Python (III)
+
+### MODULO 3
+#### Em breve...
