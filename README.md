@@ -12,7 +12,7 @@
 #### 10 - Prática: Lidando com Dados do Mundo Real (II) 
 
 ### MODULO 2
-#### 11 - Prática: Predição e a Base de Aprendizado de Máquina (II)
+#### 11 - Prática: Pipelines de Dados I - Airflow(I)
 #### 12 - Prática: Predição e a Base de Aprendizado de Máquina (II)
 #### 13 - Prática: Redes Neurais (II)
 #### 14 - Vídeo: Deep Learning In 5 Minutes (II)
